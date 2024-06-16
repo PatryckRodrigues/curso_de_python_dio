@@ -1,5 +1,5 @@
 #usanto int para converter um numero com virgula
-print(int(1.9))
+print(int(1.80))
 #string para float
 print(float("10.10"))
 #int para floate 
